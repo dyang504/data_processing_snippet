@@ -4,6 +4,7 @@ This repository collects some of useful function snippets in data analysis proce
 - Pandas data process
 
 **TODO**
+- sql 
 - selenium web scraping
 Visualization
     - Seaborn
